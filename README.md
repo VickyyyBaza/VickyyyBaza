@@ -1,9 +1,48 @@
-### Hi there 👋, visitor. I'm Victoria Baza :sunflower:
-#### IMPA's regular student :books: 
-![Orcinus_orca-Zeichnung](https://user-images.githubusercontent.com/101572826/159142115-14fa8358-1236-44cf-9005-bea282ad80f4.jpg)
+<div align='center'>
+  
+# ¡Hola! Soy Victoria Josefina Baza
 
-I love reading, drawing :notebook:, listening to any kind of music :notes:, cats :cat2:, ***orcas*** and chocolate :chocolate_bar: :cookie: :lollipop: 
+*Estudiante secundaria en curso a recibirse de **Técnico Aviónico** y aspirante a **Ingeniera Aeroespacial***.
 
-- In learning of English, French and German. :tada:
-- 5th year student. 
 
+## Resumen rápido sobre mí
+
+</div>
+
+- Estoy en el 7mo Año en la **IMPA (E.E.S.T Nº7 T.R.Q.)**.
+- Me interesan mucho las ciencias exactas, pienso estudiar **Ingeniería Aeroespacial** en la **Universidad de La Plata**.
+- Participé en la **Olimpiada Matemática Argentina**, llegando hasta el *Certamen Provincial*.
+- Socia activa de la **Asociación Argentina Amigos de la Astronomía**
+
+<div align='center'>
+
+## Idiomas
+
+</div>
+
+- **Español** *(Nativo)*
+- **Inglés** *(Avanzado)*
+- **Francés** *(Intermedio)*
+- **Alemán** *(Básico)*
+
+<div align='center'>
+
+## *Now Playing...*
+
+</div>
+
+### [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=317lw4pp2eat6jxe7tur56j64ilq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=4e6cb1&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=317lw4pp2eat6jxe7tur56j64ilq&redirect=true)
+
+<br/>
+
+
+
+
+## 📌 Mis últimos proyectos
+
+<a href="https://github.com/GianK128/Flask-To-Do-List">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GianK128&repo=Flask-To-Do-List&theme=material-palenight" />
+</a>
+<a href="https://github.com/GianK128/silla_cdp">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GianK128&repo=silla_cdp&theme=material-palenight" />
+</a>
