@@ -35,14 +35,3 @@
 
 <br/>
 
-
-
-
-## 📌 Mis últimos proyectos
-
-<a href="https://github.com/GianK128/Flask-To-Do-List">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GianK128&repo=Flask-To-Do-List&theme=material-palenight" />
-</a>
-<a href="https://github.com/GianK128/silla_cdp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GianK128&repo=silla_cdp&theme=material-palenight" />
-</a>
