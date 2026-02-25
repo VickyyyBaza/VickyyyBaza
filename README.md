@@ -5,15 +5,15 @@
   
 # ¡Hola! Soy Victoria Josefina Baza
 
-*Estudiante secundaria en curso a recibirse de **Técnico Aviónico** y aspirante a **Ingeniera Aeroespacial***.
+*Estudiante de **Ingeniería Aeroespacial***.
 
 
 ## Resumen rápido sobre mí
 
 </div>
 
-- Estoy en el 7mo Año en la **IMPA (E.E.S.T Nº7 T.R.Q.)**.
-- Me interesan mucho las ciencias exactas, pienso estudiar **Ingeniería Aeroespacial** en la **Universidad de La Plata**.
+- Soy estudiante de la Universidad Nacional de La Plata (UNLP)
+- Me recibí de la **IMPA (E.E.S.T Nº7 T.R.Q.)**, como **Técnica Aviónica**.
 - Participé en la **Olimpiada Matemática Argentina**, llegando hasta el *Certamen Provincial*.
 - Socia activa de la **Asociación Argentina Amigos de la Astronomía**
 
