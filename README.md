@@ -13,13 +13,13 @@
 
 Apasionada por el sector aeroespacial, la tecnología y las ciencias exactas. Mi formación técnica me ha permitido desarrollar sólidas habilidades analíticas y de resolución de problemas, aplicables tanto en la ingeniería como en el desarrollo de proyectos innovadores.
 
-- 🎓 **Educación:** Estudiante de Ingeniería Aeroespacial en la **Universidad Nacional de La Plata (UNLP)**.
-- 🛠️ **Formación Técnica:** Técnica Aviónica egresada del **IMPA (E.E.S.T Nº7 T.R.Q.)**.
-- ✈️ **Especialización:** Certificación en Organización y Operación de la Industria Aerocomercial por **Aerolíneas Argentinas**.
-- 🌌 **Comunidad:** Socia activa de la **Asociación Argentina Amigos de la Astronomía**.
-- 📐 **Logros:** Participación destacada en la **Olimpiada Matemática Argentina** (Certamen Provincial).
+- **Educación:** Estudiante de Ingeniería Aeroespacial en la **Universidad Nacional de La Plata (UNLP)**.
+- **Formación Técnica:** Técnica Aviónica egresada del **IMPA (E.E.S.T Nº7 T.R.Q.)**.
+- **Especialización:** Certificación en Organización y Operación de la Industria Aerocomercial por **Aerolíneas Argentinas**.
+- **Comunidad:** Socia activa de la **Asociación Argentina Amigos de la Astronomía**.
+- **Logros:** Participación destacada en la **Olimpiada Matemática Argentina** (Certamen Provincial).
 
-## 💻 Proyectos y Experiencia
+## Proyectos y Experiencia
 
 - **Proyecto PLEPER:** Desarrollo e investigación de una baldosa piezoeléctrica orientada a la generación de energía renovable (Proyecto final de Tecnicatura).
 - **Voluntariado en Tiflolibros:** Edición y adaptación de libros digitales para personas con discapacidad visual.
