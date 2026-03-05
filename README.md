@@ -1,5 +1,5 @@
 <div align='center'>
-    <img src="hubble.jpg" width="600" alt="Hubble Space Telescope">
+    <img src="hubble.jpg" width="1000" alt="Hubble Space Telescope">
 
 # ¡Hola! Soy Victoria Josefina Baza 🚀
 
